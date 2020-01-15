@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smokelabor</string>
+    <string name="smoke_harm">Курение кальяна вредит вашему здоровью</string>
+    <string name="list_mix">Список миксов</string>
+    <string name="list_mix_disclaimer">Здесь вы можете найти полный список
+        миксов, представленных в приложении</string>
+    <string name="rand_mix">Случайный микс</string>
+    <string name="rand_mix_disclaimer">Выбрать случайный микс из списка
+        имеющихся в приложении</string>
+</resources>
