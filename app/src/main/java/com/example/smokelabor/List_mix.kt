@@ -9,4 +9,6 @@ class List_mix : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list_mix)
     }
+
+    val test = 10
 }
